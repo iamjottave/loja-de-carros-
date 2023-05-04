@@ -1,4 +1,4 @@
-@media screen and (max-width: 1280px){
+@media screen and (max-width: 1450px){
 
       
            /* NISSAN SKYLINE */
@@ -26,7 +26,7 @@
       width: 400px;
     }
       .preco{
-        margin-left: 250px;
+        margin-left: 80px;
       }
       
       .comprar{
@@ -51,7 +51,7 @@
     }
 
       .preco1{
-        margin-left: 250px;
+        margin-left: 80px;
       }
       
       .comprar1{
@@ -76,7 +76,7 @@
     }
 
       .preco2{
-        margin-left: 250px;
+        margin-left: 80px;
       }
       
       .comprar2{
@@ -101,7 +101,7 @@
     }
 
       .preco3{
-        margin-left: 250px;
+       margin-left: 80px;
       }
       
       .comprar3{
